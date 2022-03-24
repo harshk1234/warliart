@@ -4,7 +4,7 @@
 - drop down option
 ![image](home.png)
 
-## product page  
+## poduct page  
 
 ![image](product.png)
 
