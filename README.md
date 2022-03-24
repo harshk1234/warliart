@@ -4,9 +4,9 @@
 - drop down option
 ![image](home.png)
 
-## poduct page  
+## product page  
 
-![image](product.png)
+![image](poduct.png)
 
 ## contact page  
 
